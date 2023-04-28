@@ -1,5 +1,5 @@
-# SQL-Portfolio
-Projects to showcase my self-taught SQL skills
+# SQL-Portfolio-Project
+A project to showcase my self-taught SQL skills using the NYC 311 dataset.
 
 ## "Burning building? Call 911. Burning question? Call 311."
 The 311 Dataset is provided by NYC Open Data. The entire dataset includs all service requests from 2010 to present, and is updated daily. However, for my project I chose to limit my analysis to entries made in the year 2019, in order to decrease the file size that I would be processing. 

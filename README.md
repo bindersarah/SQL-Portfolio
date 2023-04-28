@@ -27,7 +27,7 @@ In addition to limiting the data I worked with to service requests created in 20
 The purpose of this project was exploratory data analysis. Some findings I'd like to highlight include:
 
 1. In 2019, NYPD responded to 32% of all 311 calls (perhaps not surprising), followed by HPD (Housing Preservation & Development) at 18%, DSNY (Department of Sanitation) at 17%, and DOT (Department of Transportation) at 11%.
-2. The 5 most frequent complaints in 2019 are: 'Noise- Residential', 'Request Large Bulky Item Collection', 'HEAT/HOT WATER', 'Illegal Parking',
+2. The 5 most frequent complaints in 2019 were: 'Noise- Residential', 'Request Large Bulky Item Collection', 'HEAT/HOT WATER', 'Illegal Parking',
 'Blocked Driveway'
 3. In 2019, it took an average of 4 days for a service request to be resolved, and a maximum of 30 days.
 

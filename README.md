@@ -1,4 +1,4 @@
-# SQL-Portfolio-Project
+# SQL-Project-1
 A project to showcase my self-taught SQL skills using the NYC 311 dataset.
 
 ## "Burning building? Call 911. Burning question? Call 311."

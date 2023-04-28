@@ -1,0 +1,46 @@
+"borough","complaint_type","total_complaints"
+"BRONX","TOTAL",97887
+"BRONX","Noise - Residential",57031
+"BRONX","Noise - Street/Sidewalk",24728
+"BRONX","Noise - Vehicle",8093
+"BRONX","Noise - Commercial",4173
+"BRONX","Noise",3146
+"BRONX","Noise - Park",551
+"BRONX","Noise - House of Worship",104
+"BRONX","Noise - Helicopter",61
+"BROOKLYN","TOTAL",135058
+"BROOKLYN","Noise - Residential",67076
+"BROOKLYN","Noise - Street/Sidewalk",26958
+"BROOKLYN","Noise",14375
+"BROOKLYN","Noise - Commercial",13910
+"BROOKLYN","Noise - Vehicle",10347
+"BROOKLYN","Noise - Park",1347
+"BROOKLYN","Noise - Helicopter",666
+"BROOKLYN","Noise - House of Worship",379
+"MANHATTAN","TOTAL",137824
+"MANHATTAN","Noise - Residential",50286
+"MANHATTAN","Noise - Street/Sidewalk",35188
+"MANHATTAN","Noise",25089
+"MANHATTAN","Noise - Commercial",13755
+"MANHATTAN","Noise - Vehicle",10231
+"MANHATTAN","Noise - Helicopter",1889
+"MANHATTAN","Noise - Park",1304
+"MANHATTAN","Noise - House of Worship",82
+"QUEENS","TOTAL",94044
+"QUEENS","Noise - Residential",50409
+"QUEENS","Noise - Vehicle",13644
+"QUEENS","Noise",10853
+"QUEENS","Noise - Street/Sidewalk",9799
+"QUEENS","Noise - Commercial",7766
+"QUEENS","Noise - Park",762
+"QUEENS","Noise - Helicopter",635
+"QUEENS","Noise - House of Worship",176
+"STATEN ISLAND","TOTAL",13091
+"STATEN ISLAND","Noise - Residential",7489
+"STATEN ISLAND","Noise",2930
+"STATEN ISLAND","Noise - Street/Sidewalk",1118
+"STATEN ISLAND","Noise - Commercial",827
+"STATEN ISLAND","Noise - Vehicle",655
+"STATEN ISLAND","Noise - Park",33
+"STATEN ISLAND","Noise - Helicopter",27
+"STATEN ISLAND","Noise - House of Worship",12

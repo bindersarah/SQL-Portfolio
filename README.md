@@ -7,7 +7,7 @@ The 311 Dataset is provided by NYC Open Data. The entire dataset includs all ser
 The full dataset, table schema, and data dictionary can be found at: https://data.cityofnewyork.us/Social-Services/311-Service-Requests-from-2010-to-Present/erm2-nwe9
 
 ### Modifications I made to the dataset
-In addition to limiting the data I worked with to service requests created in 2019, I also downloaded the data in separate sections in order to create 2 tables. I organized the data sections by "general"-- consisting of the information like the unique key, the dates created and closed, the agency handling the request, and the complaint type and description and "location" -- consisting of information like borough, zipcode, address etc.
+In addition to limiting the data I worked with to service requests created in 2019, I also downloaded the data in separate sections in order to create 2 tables. I organized the data sections by "general"-- consisting of the information like unique key, dates created and closed, agency handling the request, complaint type etc., and "location" -- consisting of information like borough, zipcode, address etc.
 
 ## Operations Performed
 -GROUP BY, HAVING
